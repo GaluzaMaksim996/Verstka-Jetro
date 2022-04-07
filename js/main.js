@@ -11,8 +11,8 @@ $(function() {
     slidesToScroll: 1,
     asNavFor: '.slider-for',
     focusOnSelect: true,
-    prevArrow: '<button type="button" class="slick-arrow slick-prev"><img src="../images/slider/slide-left.svg" alt=""></button>',
-    nextArrow: '<button type="button" class="slick-arrow slick-next"><img src="../images/slider/slide-right.svg" alt=""></button>',
+    prevArrow: '<button type="button" class="slick-arrow slick-prev"><img src="images/slider/slide-left.svg" alt=""></button>',
+    nextArrow: '<button type="button" class="slick-arrow slick-next"><img src="images/slider/slide-right.svg" alt=""></button>',
   });
 
   $('.menu__btn').on('click', function () {
