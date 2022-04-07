@@ -135,7 +135,7 @@ li {
 .info__item-social::before {
   content: '';
   position: absolute;
-  background-image: url(/images/info/icon-setting.svg);
+  background-image: url(../images/info/icon-setting.svg);
   width: 46px;
   height: 46px;
   left: 0;
@@ -143,13 +143,13 @@ li {
 }
 
 .info__item-work::before {
-  background-image: url(/images/info/icon-true.svg);
+  background-image: url(../images/info/icon-true.svg);
   width: 49px;
   height: 41px;
 }
 
 .info__item-social::before {
-  background-image: url(/images/info/icon-user.svg);
+  background-image: url(../images/info/icon-user.svg);
   width: 41px;
   height: 40px;
 }
